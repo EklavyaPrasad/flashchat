@@ -1,23 +1,11 @@
 # Flash Chat ⚡️
 
-## Our Goal
+Flash Chat is a web or mobile-based application that allows registered users to send and receive messages in real-time with other registered users in a group chat format. The application is designed to facilitate communication and collaboration among users, making it easy for them to exchange information and ideas.
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
-
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+Users can sign up for the application, create a profile, and join group chats to start chatting with other users. The group chat feature allows multiple users to participate in a conversation simultaneously, making it an efficient way to share information and collaborate.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## What you will learn
+Flash Chat is a simple chat application that provides a basic chat functionality. However, it can be customized and enhanced to meet the specific needs of the users. For instance, additional features such as private messaging, file sharing, and real-time updates can be implemented to make the application more functional and user-friendly.
 
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+Overall, Flash Chat is a useful tool for users who want to communicate and collaborate with other users in a simple and efficient manner.
